@@ -1,2 +1,0 @@
-# meigen
-Alfred workflow
