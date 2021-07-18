@@ -33,7 +33,7 @@
 ### 機能:
 　自分で集めた名言をランダムに表示
 ### インストール:
-　1.[Alfredworkflow](zip)をダウンロード 
+　1.[Alfredworkflow](https://github.com/KitanoTamotsu/meigen/releases/download/1.0/meigen.alfredworkflow.zip)をダウンロード 
 <br>　2.ファイルをダブルクリックしてワークフローに登録
 ### 使い方:
 　Hotkey『⌥M』で選択中のテキストを名言集に登録（出典の記入が必要）
