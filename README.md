@@ -1,4 +1,3 @@
-## 　　Lesson20.　テキストファイルを行ごとに配列に読み込む 
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/127756559-c55c4092-a02f-4505-b4ba-6aa495be6b12.png">
